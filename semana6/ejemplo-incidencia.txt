@@ -1,0 +1,7 @@
+```json
+{
+  "tipo": "Hueco en la vía",
+  "descripcion": "Hay un hueco grande frente al colegio que dificulta el paso de los
+   vehículos y puede causar accidentes."
+}
+```

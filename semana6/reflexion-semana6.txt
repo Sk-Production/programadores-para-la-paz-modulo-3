@@ -1,0 +1,8 @@
+Creo que es importante que las plataformas puedan recibir reportes de forma estructurada porque así la 
+información llega más organizada y es más fácil revisarla. Cuando todas las personas envían los datos
+ con el mismo formato, se reducen los errores y se evita que falte información importante. Además, 
+ esto ayuda a clasificar los reportes y atenderlos con mayor rapidez. También facilita que las entidades
+  o responsables lleven un mejor control de las solicitudes. Si cada persona enviara la información de
+   una manera diferente, sería más difícil procesarla. Tener una estructura también mejora la comunicación
+    entre los ciudadanos y quienes administran la plataforma. Al final, esto hace que los problemas puedan
+     resolverse de una forma más eficiente y ordenada.
