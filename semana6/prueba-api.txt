@@ -1,0 +1,7 @@
+Al enviar la petición POST con el JSON proporcionado, el servidor recibe los datos del nombre y el mensaje. Después procesa la información y devuelve una respuesta en formato JSON confirmando que los datos fueron recibidos correctamente.
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
