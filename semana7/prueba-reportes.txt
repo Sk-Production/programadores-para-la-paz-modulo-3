@@ -1,0 +1,11 @@
+Al consultar la ruta **GET /reportes**, el servidor muestra todos los reportes que han sido registrados anteriormente mediante la ruta **POST /reportes**. Cada reporte aparece con un **id**, el **tipo** y la **descripción**. Si todavía no se ha registrado ningún reporte, la respuesta será un arreglo vacío (`[]`).
+
+```json
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+```

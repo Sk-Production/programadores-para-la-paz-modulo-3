@@ -1,0 +1,14 @@
+Al consultar la ruta **GET /reportes**, el servidor devuelve la lista de reportes que
+ tiene registrados. La respuesta se entrega en formato JSON y muestra la información de
+  cada reporte, como el identificador, el tipo y la descripción. Esto permite consultar
+   los reportes de forma organizada y conocer las incidencias registradas.
+
+```json
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+```
